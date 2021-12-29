@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ivan Junio.
+- 👀 I work as a Requirements and Business Analyst.
+- 🌱 I am currently learning Azure and agile practices.
+- 💞️ I hope collaborate on requirements engineering and business modeling.
