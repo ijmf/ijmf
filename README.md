@@ -12,8 +12,6 @@ Estou sempre em busca de novos desafios que me permitam aplicar meus conheciment
 
 Entre em contato:
 
-LinkedIn: linkedin.com/in/ivan-ferreira-4a3787ba
-GitHub: github.com/ijmf
+LinkedIn: linkedin.com/in/ivan-ferreira-4a3787ba / GitHub: github.com/ijmf
 Figma (Portfólio): https://www.figma.com/community/file/1403049972036221611/portifolio-ivan-ferreira
-Telefone: +55 (61) 99335-1288
-E-mail: ivanjuniomf@gmail.com
+Telefone: +55 (61) 99335-1288 / E-mail: ivanjuniomf@gmail.com
