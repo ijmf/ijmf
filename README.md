@@ -1,18 +1,37 @@
-Como Analista de Requisitos e Testes, atuei em diversos projetos, incluindo instituições de renome em setores como Atendimento ao Cliente (Call Centers), Bancário (CAIXA e BACEN), Saúde (Unimed), Mineração (ArcelorMittal), Varejo (Restoque), Abastecimento (Ipiranga), Consultorias (Blueshift e Domvs IT) entre outros. Minha experiência passa por mini fábricas de software à empresas de médio e grande porte, utilizando metodologias tradicionais e frameworks ágeis.
+# 👋 Olá! Eu sou Ivan Ferreira  
+Analista de Negócios & Requisitos | BSA III | Conector entre Negócio, Dados e Tecnologia  
+*PSM I · CSPO · ITIL · 11+ anos de experiência*
 
-Tenho experiência em:
+---
 
-Análise de Requisitos: Realização de entrevistas e levantamento de requisitos detalhados para garantir que as necessidades das partes interessadas sejam atendidas.
-Gestão de Processos: Implementação e otimização de processos internos para aumento de eficiência e produtividade.
-Qualidade e Testes de Software: Elaboração e execução de casos de testes, criação de manuais e execução de testes automatizados.
-Minhas habilidades de comunicação e negociação foram essenciais para a criação de User Stories relevantes e para a elaboração de especificações técnicas e diagramas de sistemas. Adicionalmente, possuo experiência no acompanhamento do desenvolvimento e melhoria contínua de sistemas, garantindo que todas as fases do ciclo de desenvolvimento estejam alinhadas com as melhores práticas e diretrizes do setor.
+## 🎯 Minha proposta  
+Ajudo organizações a traduzirem **desafios de negócio** em **soluções técnicas que geram valor**.  
+Minha abordagem combina análise de requisitos, mapeamento de processos (BPMN), BI e metodologias ágeis para reduzir retrabalho, aumentar eficiência e conectar times de tecnologia & negócio.
 
-Estou sempre em busca de novos desafios que me permitam aplicar meus conhecimentos e habilidades em ambientes dinâmicos e inovadores. Entre em contato comigo para discutir como posso contribuir para o sucesso de seus projetos.
+---
 
-Entre em contato:
+## 🔧 Habilidades-chave  
+- Análise de Requisitos Funcionais & Não Funcionais  
+- Modelagem e Otimização de Processos (BPMN)  
+- Gestão Ágil (Scrum/Kanban) & Stakeholder Management  
+- BI & Dados: Power BI, SQL, Databricks, Azure DevOps  
+- Garantia de Qualidade & Automação de Testes  
+- Documentação Técnica, User Stories, Backlog de Produto
 
-LinkedIn: https://www.linkedin.com/in/ivan-ferreira-4a3787ba/
+---
 
-Figma (Portfólio): https://www.figma.com/community/file/1403049972036221611/portifolio-ivan-ferreira
+## 📁 Projetos em destaque  
+- **[Portfólio Interativo (Figma)](https://www.figma.com/community/file/1403049972036221611/portifolio-ivan-ferreira)** — App visual criado para apresentar minha trajetória de experiências e demonstrar domínio de design + análise.  
+- **ProjetoFTS** — automação de testes em Java/Maven/RESTassured + Selenium; demonstra integração entre QA e entrega ágil.  
+- **Cypress** — configuração em Node/React de testes de interface, API & mocks; mostra versatilidade técnica.  
+*(Adicione breve descrição em cada repositório para dar contexto do valor entregue)*
 
-Telefone: +55 (61) 99335-1288 / E-mail: ivanjuniomf@gmail.com
+---
+
+## 📬 Vamos nos conectar  
+- LinkedIn: [linkedin.com/in/ivan-ferreira-4a3787ba](https://www.linkedin.com/in/ivan-ferreira-4a3787ba/)  
+- Contato: ivanjuniomf@gmail.com | +55 (61) 99335-1288
+
+---
+
+> “Traduzo necessidades de negócio em soluções de valor — conectando pessoas, dados e tecnologia.”  
