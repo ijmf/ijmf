@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Ivan Ferreira  
-Analista de Negócios & Requisitos | BSA III | Conector entre Negócio, Dados e Tecnologia  
-*PSM I · CSPO · ITIL · 11+ anos de experiência*
+Analista de Requisitos & Testes | BSA III | Conector entre Negócio, Dados e Tecnologia  
+*PSM I · CSPO · ITIL · CTFL · 12+ anos de experiência*
 
 ---
 
