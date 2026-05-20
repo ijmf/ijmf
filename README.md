@@ -5,18 +5,22 @@ Analista de Requisitos & Testes | BSA III | Conector entre Negócio, Dados e Tec
 ---
 
 ## 🎯 Minha proposta  
-Ajudo organizações a traduzirem **desafios de negócio** em **soluções técnicas que geram valor**.  
-Minha abordagem combina análise de requisitos, mapeamento de processos (BPMN), BI e metodologias ágeis para reduzir retrabalho, aumentar eficiência e conectar times de tecnologia & negócio.
+Trabalho na ponte entre quem tem o problema e quem vai resolver. Isso significa entender o que o negócio precisa de verdade — não só o que foi pedido — e traduzir isso em requisitos, fluxos e critérios de aceite que o time consegue usar sem adivinhar.
+Nos últimos anos atuei em projetos para o Banco Central do Brasil e para a Assembleia Legislativa de Mato Grosso: especificação de sistemas do zero, estruturação de QA e prototipagem de telas para validar entendimento antes de qualquer código ser escrito. Retrabalho caro quase sempre começa num requisito mal especificado — e é exatamente aí que eu atuo.
 
 ---
 
 ## 🔧 Habilidades-chave  
-- Análise de Requisitos Funcionais & Não Funcionais  
-- Modelagem e Otimização de Processos (BPMN)  
-- Gestão Ágil (Scrum/Kanban) & Stakeholder Management  
-- BI & Dados: Power BI, SQL, Databricks, Azure DevOps  
-- Garantia de Qualidade & Automação de Testes  
-- Documentação Técnica, User Stories, Backlog de Produto
+
+- Análise de Requisitos Funcionais & Não Funcionais
+- Especificação de User Stories, Critérios de Aceitação e Backlog de Produto
+- Modelagem de Fluxos e Máquinas de Estado (BPMN, diagramas de estado)
+- Escrita de cenários BDD/Gherkin e estruturação de QA funcional
+- Prototipagem HTML para validação de requisitos com stakeholders
+- Gestão Ágil (Scrum/Kanban), refinamento e facilitação com times e clientes
+- Banco de Dados: SQL e DB2 — consultas, validação de integridade e scripts de homologação
+- Ferramentas: Azure DevOps, GitLab, Postman, Power BI, Databricks
+- Documentação técnica orientada a times de desenvolvimento e negócio
 
 ---
 
